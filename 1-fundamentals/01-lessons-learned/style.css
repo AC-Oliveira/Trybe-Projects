@@ -1,0 +1,98 @@
+#cabecalho {
+  bottom: 0;
+  display: block;
+  font-family: monospace;
+  font-size: 32px;
+  left: 0;
+  line-height: 60px;
+  height: 50px;
+  position: fixed;
+  right: 0;
+  top: 0;
+}
+
+#minha_foto {
+  border: solid goldenrod 2px;
+  border-radius: 5%;
+  display: block;
+  margin: 100px auto 0;
+  width: 150px;
+}
+
+#my_portfolio {
+  color: black;
+  text-align: center;
+}
+
+#rodape {
+  background-color: black;
+  color: goldenrod;
+  padding: 5px;
+}
+
+#titulo {
+  background-color: black;
+  color: goldenrod;
+  margin-top: 0;
+  padding: 2px;
+  text-align: center;
+}
+
+.align {
+  font-weight: 900;
+  text-align: center;
+}
+
+.box-model {
+  margin: auto;
+  text-align: center;
+  width: 75%;
+}
+
+.lado-direito {
+  display: inline-block;
+  width: 300px;
+}
+
+.lado-esquerdo {
+  display: inline-block;
+  width: 300px;
+}
+
+a {
+  color: black;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  height: 100%;
+  margin: 0;}
+
+div {
+  text-align: center;
+}
+
+hr {
+  background-color: goldenrod;
+}
+
+html {
+  height: 100%;
+}
+
+table {
+  display: inline-block;
+  text-align: center;
+}
+
+table , td {
+  background-color: black;
+  border: solid goldenrod 2px;
+  color: goldenrod;
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
