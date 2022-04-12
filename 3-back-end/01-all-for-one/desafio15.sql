@@ -1,0 +1,1 @@
+SELECT CONVERT(DATE_FORMAT(submitted_date, '%k'), UNSIGNED INTEGER) AS submitted_hour FROM northwind.purchase_orders;

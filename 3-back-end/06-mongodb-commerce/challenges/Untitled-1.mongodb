@@ -1,0 +1,79 @@
+
+db.produtos.updateMany({},
+  {
+    $push: {
+      valoresNutricionais: {
+        $each: [], 
+        $sort: { percentual: -1 }
+      }
+    }
+  }
+);
+
+db.produtos.find({},{nome: 1, valoresNutricionais: 1, _id: 0});
+
+// 13
+
+
+db.produtos.updateMany({
+  "valoresNutricionais": {    
+    $elemMatch: {
+      tipo: "sódio",
+      "percentual": {
+        $gt: 40
+      }
+    }
+  }
+},{ $push: { tags: "muito sódio"} } );
+
+
+db.produtos.find({},{nome: 1, tags: 1, _id: 0});
+
+// 14
+
+use("commerce");
+
+db.produtos.updateMany({
+  "valoresNutricionais": {
+    $elemMatch: {
+      tipo: "sódio",
+      percentual: {
+        $gt: 20,
+        $lt: 40
+      }
+    }
+  }
+},{
+  $push: {
+    tags: "contém sódio"
+  }
+});
+
+db.produtos.find({},{nome: 1, tags: 1, _id: 0});
+
+// 15
+
+use("commerce");
+db.produtos.find({
+  nome: {$regex: /Mc/i}},
+  {nome: 1}).count();
+
+// 16
+
+use("commerce");
+
+db.produtos.find({ingredientes: {
+  $size: 4
+}},{}).count();
+
+//  17
+
+use("commerce");
+
+db.produtos.find({
+    $text: {
+      $search: "frango",
+    }
+  }
+},{descricao: 1, _id: 0}).count();
+
