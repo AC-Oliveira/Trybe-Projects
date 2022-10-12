@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Trybe-Projects/2-front-end/05-react-testing-library/static/css/main.88a5c871.chunk.css",
+    "main.js": "/Trybe-Projects/2-front-end/05-react-testing-library/static/js/main.3a455d35.chunk.js",
+    "main.js.map": "/Trybe-Projects/2-front-end/05-react-testing-library/static/js/main.3a455d35.chunk.js.map",
+    "runtime-main.js": "/Trybe-Projects/2-front-end/05-react-testing-library/static/js/runtime-main.1a0b886b.js",
+    "runtime-main.js.map": "/Trybe-Projects/2-front-end/05-react-testing-library/static/js/runtime-main.1a0b886b.js.map",
+    "static/js/2.585a919e.chunk.js": "/Trybe-Projects/2-front-end/05-react-testing-library/static/js/2.585a919e.chunk.js",
+    "static/js/2.585a919e.chunk.js.map": "/Trybe-Projects/2-front-end/05-react-testing-library/static/js/2.585a919e.chunk.js.map",
+    "index.html": "/Trybe-Projects/2-front-end/05-react-testing-library/index.html",
+    "precache-manifest.7a2c97ed410a5f729ba8191b3382ed7f.js": "/Trybe-Projects/2-front-end/05-react-testing-library/precache-manifest.7a2c97ed410a5f729ba8191b3382ed7f.js",
+    "service-worker.js": "/Trybe-Projects/2-front-end/05-react-testing-library/service-worker.js",
+    "static/css/main.88a5c871.chunk.css.map": "/Trybe-Projects/2-front-end/05-react-testing-library/static/css/main.88a5c871.chunk.css.map",
+    "static/js/2.585a919e.chunk.js.LICENSE.txt": "/Trybe-Projects/2-front-end/05-react-testing-library/static/js/2.585a919e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a0b886b.js",
+    "static/js/2.585a919e.chunk.js",
+    "static/css/main.88a5c871.chunk.css",
+    "static/js/main.3a455d35.chunk.js"
+  ]
+}
