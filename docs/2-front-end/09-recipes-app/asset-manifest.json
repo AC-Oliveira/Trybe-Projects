@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Trybe-Projects/2-front-end/09-recipes-app/static/css/main.d1456bb1.chunk.css",
+    "main.js": "/Trybe-Projects/2-front-end/09-recipes-app/static/js/main.3d2cf14c.chunk.js",
+    "main.js.map": "/Trybe-Projects/2-front-end/09-recipes-app/static/js/main.3d2cf14c.chunk.js.map",
+    "runtime-main.js": "/Trybe-Projects/2-front-end/09-recipes-app/static/js/runtime-main.6caed57d.js",
+    "runtime-main.js.map": "/Trybe-Projects/2-front-end/09-recipes-app/static/js/runtime-main.6caed57d.js.map",
+    "static/css/2.95258f03.chunk.css": "/Trybe-Projects/2-front-end/09-recipes-app/static/css/2.95258f03.chunk.css",
+    "static/js/2.2da8258d.chunk.js": "/Trybe-Projects/2-front-end/09-recipes-app/static/js/2.2da8258d.chunk.js",
+    "static/js/2.2da8258d.chunk.js.map": "/Trybe-Projects/2-front-end/09-recipes-app/static/js/2.2da8258d.chunk.js.map",
+    "index.html": "/Trybe-Projects/2-front-end/09-recipes-app/index.html",
+    "precache-manifest.f2c8feac3bb82154584ee9451e6c91fc.js": "/Trybe-Projects/2-front-end/09-recipes-app/precache-manifest.f2c8feac3bb82154584ee9451e6c91fc.js",
+    "service-worker.js": "/Trybe-Projects/2-front-end/09-recipes-app/service-worker.js",
+    "static/css/2.95258f03.chunk.css.map": "/Trybe-Projects/2-front-end/09-recipes-app/static/css/2.95258f03.chunk.css.map",
+    "static/css/main.d1456bb1.chunk.css.map": "/Trybe-Projects/2-front-end/09-recipes-app/static/css/main.d1456bb1.chunk.css.map",
+    "static/js/2.2da8258d.chunk.js.LICENSE.txt": "/Trybe-Projects/2-front-end/09-recipes-app/static/js/2.2da8258d.chunk.js.LICENSE.txt",
+    "static/media/blackHeartIcon.svg": "/Trybe-Projects/2-front-end/09-recipes-app/static/media/blackHeartIcon.b8913346.svg",
+    "static/media/drinkIcon.svg": "/Trybe-Projects/2-front-end/09-recipes-app/static/media/drinkIcon.f87c47c3.svg",
+    "static/media/exploreIcon.svg": "/Trybe-Projects/2-front-end/09-recipes-app/static/media/exploreIcon.157945ff.svg",
+    "static/media/mealIcon.svg": "/Trybe-Projects/2-front-end/09-recipes-app/static/media/mealIcon.b27ba19e.svg",
+    "static/media/profileIcon.svg": "/Trybe-Projects/2-front-end/09-recipes-app/static/media/profileIcon.74e487e5.svg",
+    "static/media/searchIcon.svg": "/Trybe-Projects/2-front-end/09-recipes-app/static/media/searchIcon.db812135.svg",
+    "static/media/whiteHeartIcon.svg": "/Trybe-Projects/2-front-end/09-recipes-app/static/media/whiteHeartIcon.ea3b6ba8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6caed57d.js",
+    "static/css/2.95258f03.chunk.css",
+    "static/js/2.2da8258d.chunk.js",
+    "static/css/main.d1456bb1.chunk.css",
+    "static/js/main.3d2cf14c.chunk.js"
+  ]
+}

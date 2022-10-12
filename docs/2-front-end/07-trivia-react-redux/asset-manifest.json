@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/css/main.1f5c2afc.chunk.css",
+    "main.js": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/js/main.f9202c9e.chunk.js",
+    "main.js.map": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/js/main.f9202c9e.chunk.js.map",
+    "runtime-main.js": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/js/runtime-main.ab248aae.js",
+    "runtime-main.js.map": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/js/runtime-main.ab248aae.js.map",
+    "static/js/2.327b58b9.chunk.js": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/js/2.327b58b9.chunk.js",
+    "static/js/2.327b58b9.chunk.js.map": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/js/2.327b58b9.chunk.js.map",
+    "index.html": "/Trybe-Projects/2-front-end/07-trivia-react-redux/index.html",
+    "precache-manifest.724ed7a45c52b34e06de9f7df4ffbb48.js": "/Trybe-Projects/2-front-end/07-trivia-react-redux/precache-manifest.724ed7a45c52b34e06de9f7df4ffbb48.js",
+    "service-worker.js": "/Trybe-Projects/2-front-end/07-trivia-react-redux/service-worker.js",
+    "static/css/main.1f5c2afc.chunk.css.map": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/css/main.1f5c2afc.chunk.css.map",
+    "static/js/2.327b58b9.chunk.js.LICENSE": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/js/2.327b58b9.chunk.js.LICENSE",
+    "static/media/about.png": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/media/about.d7662c99.png",
+    "static/media/login.css": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/media/bg-login.3d5eb47a.jpg",
+    "static/media/logo.png": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/media/logo.435ced2c.png",
+    "static/media/rank.png": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/media/rank.eadcf985.png",
+    "static/media/settings.png": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/media/settings.cafd3f44.png",
+    "static/media/silvio.png": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/media/silvio.3529f77c.png",
+    "static/media/trilha.mp3": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/media/trilha.eb653ef4.mp3",
+    "static/media/universitarios.png": "/Trybe-Projects/2-front-end/07-trivia-react-redux/static/media/universitarios.0943945f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab248aae.js",
+    "static/js/2.327b58b9.chunk.js",
+    "static/css/main.1f5c2afc.chunk.css",
+    "static/js/main.f9202c9e.chunk.js"
+  ]
+}

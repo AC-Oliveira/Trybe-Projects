@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/css/main.0c8dd27f.chunk.css",
+    "main.js": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/js/main.b7610626.chunk.js",
+    "main.js.map": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/js/main.b7610626.chunk.js.map",
+    "runtime-main.js": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/js/runtime-main.cf3eaea3.js",
+    "runtime-main.js.map": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/js/runtime-main.cf3eaea3.js.map",
+    "static/js/2.6feb6955.chunk.js": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/js/2.6feb6955.chunk.js",
+    "static/js/2.6feb6955.chunk.js.map": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/js/2.6feb6955.chunk.js.map",
+    "index.html": "/Trybe-Projects/2-front-end/08-starwars-planet-search/index.html",
+    "precache-manifest.5f6f4bbc11a7a358146c2087683ab6d9.js": "/Trybe-Projects/2-front-end/08-starwars-planet-search/precache-manifest.5f6f4bbc11a7a358146c2087683ab6d9.js",
+    "service-worker.js": "/Trybe-Projects/2-front-end/08-starwars-planet-search/service-worker.js",
+    "static/css/main.0c8dd27f.chunk.css.map": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/css/main.0c8dd27f.chunk.css.map",
+    "static/js/2.6feb6955.chunk.js.LICENSE.txt": "/Trybe-Projects/2-front-end/08-starwars-planet-search/static/js/2.6feb6955.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf3eaea3.js",
+    "static/js/2.6feb6955.chunk.js",
+    "static/css/main.0c8dd27f.chunk.css",
+    "static/js/main.b7610626.chunk.js"
+  ]
+}
