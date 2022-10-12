@@ -47,7 +47,7 @@ _There are more than 1500 hours of training that covers fundamentals of web deve
 - [x] _[Project - Blog API](3-back-end/12-blogs-api)_
 - [x] _[Project - Delivery App](3-back-end/13-delivery-app)_
 
-## Computer Science :hourglass_flowing_sand:
+## Computer Science :heavy_check_mark:
 
 - [x] _[Project - Job Insights](4-computer-science/01-job-insights)_
 - [x] _[Project - Inventory Reports](4-computer-science/02-inventory-report)_
