@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Trybe-Projects/2-front-end/03-movie-cards-library-crud/precache-manifest.a49f9ce0385567ce14b2860af97ca391.js"
+  "/Trybe-Projects/2-front-end/04-online-store/precache-manifest.94e6b773b441b07835caaa5459849fd1.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Trybe-Projects/2-front-end/03-movie-cards-library-crud/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Trybe-Projects/2-front-end/04-online-store/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
