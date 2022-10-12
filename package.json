@@ -1,0 +1,26 @@
+{
+  "name": "trybe-projects",
+  "version": "1.0.0",
+  "description": "This repository contains all the projects developed by me while studying at [Trybe](https://www.betrybe.com/)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AC-Oliveira/Trybe-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AC-Oliveira/Trybe-Projects/issues"
+  },
+  "homepage": "https://github.com/AC-Oliveira/Trybe-Projects#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
